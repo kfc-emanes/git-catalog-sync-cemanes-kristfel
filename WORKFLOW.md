@@ -1,6 +1,10 @@
 
 ## SCREENSHOTS ##
 
+### Setup
+![Setup](screenshots/setup.png)
+
+### Task 1: Intial Pushing of Changes from Clone A
 ![Task 1](screenshots/task1.png)
 
 ### Task 2: Rejected Push from Clone B
